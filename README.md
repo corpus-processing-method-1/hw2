@@ -1,1 +1,4 @@
-# hw1-word_sense_freq
+# Homework.2 (Due: 11/5)
+
+- 寫下這週觀看 FutureLearn 課程的不解問題。
+- 爬取 ptt 任兩個版當月的文章，各計算出其前百名之`詞頻表`、`詞類頻表` 與 `詞意頻表`。

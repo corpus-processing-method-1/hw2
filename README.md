@@ -88,7 +88,7 @@ def strB2Q(ustring):
 # 讀取文章 (文章爬取見 https://github.com/jwlin/ptt-web-crawler)
 with open("<某板文章>.json", "r", encoding="UTF-8") as f:
     articles = json.load(f)
-    # 後續處理...
+    ## 後續處理...
 
 
 # 斷詞、PoS tag、Sense tag
@@ -96,9 +96,9 @@ tagger = DistilTag()
 for article in articles:
     tagged = tagger.tag(strB2Q(article))
     sense_tagged = senseTag(tagged)
-    # 後續處理...
+    ## 後續處理...
 
 
 # 計算詞頻表、詞類頻表、詞意頻表
-# 後續處理...
+## 後續處理...
 ```

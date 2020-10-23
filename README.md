@@ -23,16 +23,12 @@
 1. 安裝 [Python 3](https://www.python.org/downloads/)
 
 2. 安裝套件：`DistilTag`, `CwnSenseTagger`
-
-  - 請打開 Terminal (Mac: 搜尋 terminal; Windows: 命令提示字元) 輸入指令
-
-    ```bash
-    pip3 install -U DistilTag CwnSenseTagger  #or, pip install -U DistilTag CwnSenseTagger
-    ```
-  
-  - 在 Windows 上安裝可能會出錯，可嘗試下列安裝方式 (詳見 [pytorch 官網](https://pytorch.org/get-started/locally/))：
-    
-    ```bash
-    pip install torch==1.6.0+cpu torchvision==0.7.0+cpu -f https://download.pytorch.org/whl/torch_stable.html
-    pip install -U DistilTag CwnSenseTagger
-    ```
+    - 請打開 Terminal (Mac: 搜尋 terminal; Windows: 命令提示字元) 輸入指令
+        ```bash
+        pip3 install -U DistilTag CwnSenseTagger  #or, pip install -U DistilTag CwnSenseTagger
+        ```
+    - 在 Windows 上安裝可能會出錯，可嘗試下列安裝方式 (詳見 [pytorch 官網](https://pytorch.org/get-started/locally/))：
+        ```bash
+        pip install torch==1.6.0+cpu torchvision==0.7.0+cpu -f https://download.pytorch.org/whl/torch_stable.html
+        pip install -U DistilTag CwnSenseTagger
+            ```

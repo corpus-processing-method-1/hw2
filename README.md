@@ -69,7 +69,7 @@ from DistilTag import DistilTag
 from CwnSenseTagger import senseTag
 
 
-# 全形轉半形 (斷詞器需要全形符號才能運作)
+# 全形轉半形函數 (斷詞需要全形符號才能運作)
 def strB2Q(ustring):
     ss = []
     for s in ustring:

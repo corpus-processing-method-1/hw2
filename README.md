@@ -11,7 +11,10 @@
     1. 原始碼 (`.py` or `.ipynb`)
     2. 資料
         1. 直接寫在 Jupyter Notebook 裡，或
-        2. 存成 `.csv` (or `.tsv`)： `詞頻表` (`form_freq.tsv`)、`詞類頻表` (`form-pos_freq.tsv`) 與 `詞意頻表` (`form-sense_freq.tsv`)
+        2. 存成 `.csv` (or `.tsv`)：  
+            詞頻表: `form_freq.tsv`  
+            詞類頻表: form-pos_freq.tsv`  
+            詞意頻表: `form-sense_freq.tsv`
 
 
 

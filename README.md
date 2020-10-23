@@ -8,10 +8,10 @@
 
 1. FutureLearn 問題：PDF 檔 (檔案請命名為：`<姓名>_futurelearn.pdf` 例如，`謝舒凱_futurelearn.pdf`)
 2. 程式作業：
-  1. 原始碼 (`.py` or `.ipynb`)
-  2. 資料
-    1. 直接寫在 Jupyter Notebook 裡，或
-    2. 存成 `.csv` (or `.tsv`)： `詞頻表` (`form_freq.tsv`)、`詞類頻表` (`form-pos_freq.tsv`) 與 `詞意頻表` (`form-sense_freq.tsv`)
+    1. 原始碼 (`.py` or `.ipynb`)
+    2. 資料
+        1. 直接寫在 Jupyter Notebook 裡，或
+        2. 存成 `.csv` (or `.tsv`)： `詞頻表` (`form_freq.tsv`)、`詞類頻表` (`form-pos_freq.tsv`) 與 `詞意頻表` (`form-sense_freq.tsv`)
 
 
 
